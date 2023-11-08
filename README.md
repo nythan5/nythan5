@@ -1,13 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&color=37B8FF&center=true&random=false&width=435&lines=Hello+World!+I'm+Gabriel+Nathan+;And+i+very+happy+to+see+here!)](https://git.io/typing-svg)
 
+### Telling a little about me
 
-### Telling a litle about me
-
-- 🛠  Atualmente, estou trabalhando com Assistente de Planejamento Logistico no Grupo Mirassol.
-- 🚀  Estou estudando e explorando o mundo de analise/manipulação de dados com Python além de estudos sobre Machine Learning, etc.
-- 💬  Fique à vontade para me fazer qualquer pergunta!
-- 👾  Curiosidade sobre mim: Comecei minha jornada de trabalho com manutenções elétricas, posteriormente vinculei a ideia de como esses equipamentos chegam até o brasil e decidi estudar Comercio Exterior o que me levou a conhecer Suply Chain o que me trouxe a automações de tarefas resultando em tratar e manipular dados que essas tarefas geram. E atualmente acredito que me encontrei em algo que me instiga a ser melhor a cada dia 
-- 📫  Entre em contato comigo: [g.n.d2014@gmail.com](mailto:g.n.d2014@gmail.com).
+- 🛠  Currently, I'm working as a Logistics Planning Assistant at Grupo Mirassol.
+- 🚀  I'm studying and exploring the world of data analysis/manipulation with Python and diving into topics like Machine Learning, etc.
+- 💬  Feel free to ask me any questions!
+- 👾  Fun fact about me: I began my career in electrical maintenance, but later connected the dots on how these equipment arrive in Brazil. This led me to study International Trade, which eventually introduced me to Supply Chain and the automation of tasks related to data processing. Currently, I believe I've found something that challenges me to be better every day.
+- 📫  Contact me at: [g.n.d2014@gmail.com](mailto:g.n.d2014@gmail.com).
 
 ### Languages and Tools:
 
@@ -17,8 +16,7 @@
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; Fico muito feliz quando encontro uma nova maneira de fazer algo que eu já realizei, afinal um dia um dos caminhos podem estar bloqueados e é necessário lidar com adversidades do dia a dia.
-- 📰 &nbsp; Assistir TED Talking virou hoob, algo que aos olhos de muitos parece ser entediante se tornou uma nova via para conhecer novas ideias.
-- 🍕 &nbsp; Nada como um bom e velho encontro entre os amigos afinal pelo discord nao da para sentir a emocao de estar com aqueles que são importantes para nós.
-
+- 💻 &nbsp; I'm delighted when I find a new way to accomplish something I've done before. After all, one of the paths might be blocked one day, and it's necessary to deal with day-to-day adversities.
+- 📰 &nbsp; Watching TED Talks has become a hobby. Something that may seem boring to many has become a new avenue for discovering fresh ideas.
+- 🍕 &nbsp; Nothing beats a good old get-together with friends. After all, over Discord, you can't feel the excitement of being with those who matter to us.
 
