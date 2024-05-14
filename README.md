@@ -3,16 +3,17 @@
 ### Telling a little about me
 
 - 🛠  Currently, I'm working as a Logistics Planning Assistant at Grupo Mirassol.
-- 🚀  I'm studying and exploring the world of data analysis/manipulation with Python and diving into topics like Machine Learning, etc.
+- 🚀  I'm studying and exploring the world of fullstack development with Python & DJANGO e DJANGO REST for API's and diving into topics like Machine Learning, etc.
 - 💬  Feel free to ask me any questions!
 - 👾  Fun fact about me: I began my career in electrical maintenance, but later connected the dots on how these equipment arrive in Brazil. This led me to study International Trade, which eventually introduced me to Supply Chain and the automation of tasks related to data processing. Currently, I believe I've found something that challenges me to be better every day.
 - 📫  Contact me at: [g.n.d2014@gmail.com](mailto:g.n.d2014@gmail.com).
 
 ### Languages and Tools:
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="django"></code>
 
 ### My Absolute Favorites:
 
